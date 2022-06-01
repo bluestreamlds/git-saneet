@@ -8,7 +8,7 @@ const a = 10;
 console.log(a);
 
 const b = 10;
-console.log(a);
+console.log(b);
 
 const c = 10;
-console.log(a);
+console.log(c);
